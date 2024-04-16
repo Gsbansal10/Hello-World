@@ -1,8 +1,14 @@
 body {
 	background-color: lightblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
 }
+
 
 h1 {
 	color: navy;
 	margin-left: 20px;
 }
+
